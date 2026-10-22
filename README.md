@@ -19,4 +19,4 @@
 
 ## Me contacter
 
-Retrouvez mes projets ci-dessus, ou écrivez-moi via ma page GitHub.# Khadidja-Ahmat-Hassan
+Retrouvez mes projets ci-dessus, ou écrivez-moi via ma page GitHub.
