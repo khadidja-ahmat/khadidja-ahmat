@@ -8,4 +8,6 @@
 
 📫 [LinkedIn](https://www.linkedin.com/in/khadidjaahmat) · Mes projets principaux sont épinglés ci-dessous ⬇️
 
-- [PROJET_AAA](https://github.com/ismailab2/PROJET_AAA) : évaluation de techniques de classification en machine learning (en cours)
+**Projets réalisés en binôme :**
+
+- [PROJET_AAA](https://github.com/ismailab2/PROJET_AAA) : évaluation de techniques de classification en machine learning (en cours, en binôme)
